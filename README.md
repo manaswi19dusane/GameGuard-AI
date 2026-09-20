@@ -134,8 +134,8 @@ https://github.com/user-attachments/assets/6edbe5d6-5a8a-423d-88eb-cec90b21299b
 
 ## 👨‍💻 Authors
 
-[Manasvi Dusane](https://github.com/manaswi19dusane)
-[Siddhi Nagapure](https://github.com/Siddhi-Nagapure-5)
+Manasvi Dusane
+Siddhi Nagapure
 * Special thanks to collaborators and dataset providers
 
 ---
